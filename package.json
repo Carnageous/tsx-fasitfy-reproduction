@@ -1,0 +1,15 @@
+{
+  "name": "tsx-starter",
+  "private": true,
+  "scripts": {
+    "start": "tsx watch index.ts"
+  },
+  "dependencies": {
+    "fastify": "^4.14.1",
+    "fastify-plugin": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.2",
+    "tsx": "^3.12.1"
+  }
+}
